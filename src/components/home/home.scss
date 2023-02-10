@@ -1,0 +1,16 @@
+main {
+  background-color: #ff9bec;
+
+  h3 {
+    font-size: x-small;
+    background-color: #d63e7c;
+    margin: 0;
+    padding: 1vh;
+  }
+
+  .home-page {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    background-color: #ff9bec;
+  }
+}

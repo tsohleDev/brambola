@@ -1,0 +1,21 @@
+.heading {
+  display: grid;
+  grid-template-columns: 60% 40%;
+  background-color: rgb(217 79 147 / 62%);
+  padding: 2vh 0;
+
+  div {
+    text-align: end;
+    align-self: center;
+    padding: 0 2vw;
+
+    h1 {
+      font-size: large;
+      margin: 0.3vh 0;
+    }
+
+    pre {
+      margin: 0;
+    }
+  }
+}

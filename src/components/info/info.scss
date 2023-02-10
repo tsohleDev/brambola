@@ -1,0 +1,38 @@
+.stock-info {
+  display: flex;
+  flex-direction: column;
+
+  .current-price,
+  .intra-day,
+  .intra-year,
+  .volume,
+  .market-cap,
+  .last-update {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 3vh 2vw;
+
+    .trend-up {
+      font-size: xxx-large;
+      color: green;
+    }
+
+    .trend-down {
+      font-size: xxx-large;
+      color: #fff200;
+    }
+
+    div {
+      display: grid;
+      text-align: end;
+      align-content: center;
+
+      h4,
+      h5 {
+        font-size: smaller;
+        margin: 0;
+      }
+    }
+  }
+}
