@@ -1,0 +1,20 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 2vw;
+  background-color: #c854b2;
+
+  button {
+    background-color: transparent;
+    border: 0;
+  }
+
+  div {
+    background-color: transparent;
+
+    span {
+      margin: 0 1vw;
+    }
+  }
+}
