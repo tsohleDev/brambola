@@ -69,6 +69,8 @@
 
 - [Live Demo Link](https://brambola.onrender.com/)
 
+- [Video by Tsohle](https://www.loom.com/share/d74b14bd972d4c8287811374b1b883ab)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
@@ -204,6 +206,7 @@ Give a ⭐️ if you like this project!
 > Credits to everyone who inspired the codebase.
 
 I would like to thank [Microverse](https://microverse.org) for the great content
+I would also like to give special thanks to [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) for letting us use his [Behace design](https://www.behance.net/gallery/31579789/Ballhead-App-%28Free-PSDs%29)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
